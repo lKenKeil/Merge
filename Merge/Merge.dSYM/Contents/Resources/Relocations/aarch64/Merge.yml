@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Volumes/Crucial X6/Data Structure/Merge/Merge'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _merge, symObjAddr: 0x0, symBinAddr: 0x100003610, symSize: 0x37C }
+  - { offsetInCU: 0x48, offset: 0x48, size: 0x8, addend: 0x0, symName: _merge, symObjAddr: 0x0, symBinAddr: 0x100003610, symSize: 0x37C }
+  - { offsetInCU: 0x131, offset: 0x131, size: 0x8, addend: 0x0, symName: _mergeSort, symObjAddr: 0x37C, symBinAddr: 0x10000398C, symSize: 0xB8 }
+  - { offsetInCU: 0x1A9, offset: 0x1A9, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x434, symBinAddr: 0x100003A44, symSize: 0x45C }
+...
